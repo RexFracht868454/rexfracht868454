@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm RexFracht868454</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rexfracht868454&label=Profile%20views&color=0e75b6&style=flat" alt="rexfracht868454" /> </p>
 
 - 🔭 I’m currently working on my own game **SpaceShooter**
 
@@ -19,3 +18,5 @@
 >**GitHub Language Stats**
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RexFracht868454)](https://github.com/RexFracht868454/github-readme-stats)
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rexfracht868454&label=Profile%20views&color=0e75b6&style=flat" alt="rexfracht868454" /> </p>
