@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my own game **SpaceShooter**
 
-- 🌱 I’m currently learning **C#, Js, Java, Html, Css, SQL**
+- 🌱 I’m currently learning **C#, JS, Java, HTML, CSS, SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RexFracht868454?tab=repositories](https://github.com/RexFracht868454?tab=repositories)
 
