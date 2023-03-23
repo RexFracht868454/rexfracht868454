@@ -1,4 +1,4 @@
-[![MaterHead](https://assets.toptal.io/images?url=https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1094584/staging.toptal.net_qa_how-to-write-testable-code-and-why-it-matters-25bff356169b7ee5f878b7b591b84afa.png)](https://github.com/RexFracht868454)
+[![MaterHead](https://cdn.pixabay.com/photo/2015/08/24/12/53/banner-904884_960_720.jpg)](https://github.com/RexFracht868454)
 <h1 align="center">Hi 👋, I'm RexFracht868454</h1>
 
 - 🔭 I’m currently working on my own game **SpaceShooter**
