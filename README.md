@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RexFracht868454?tab=repositories](https://github.com/RexFracht868454?tab=repositories)
 
+- 🖥️ Website coming soon
+
 - ⚡ Fun fact **I am 15 years old**
 
 <h3 align="left">Languages and Tools:</h3>
