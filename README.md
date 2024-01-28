@@ -1,8 +1,6 @@
 [![MaterHead](https://cdn.pixabay.com/photo/2015/08/24/12/53/banner-904884_960_720.jpg)](https://github.com/RexFracht868454)
 <h1 align="center">Hi, I'm RexFracht868454</h1>
 
-- 🔭 I’m currently working on my own game **CloneWarsUniverse**
-
 - 🌱 I’m currently learning **GLua, Java, HTML, CSS, JS, SQL, C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RexFracht868454?tab=repositories](https://github.com/RexFracht868454?tab=repositories)
