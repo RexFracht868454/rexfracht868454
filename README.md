@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my own game **CloneWarsUniverse**
 
-- 🌱 I’m currently learning **JS, Java, HTML, CSS, SQL, C#**
+- 🌱 I’m currently learning **GLua, Java, HTML, CSS, JS, SQL, C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RexFracht868454?tab=repositories](https://github.com/RexFracht868454?tab=repositories)
 
